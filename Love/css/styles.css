@@ -153,14 +153,14 @@ canvas {
 
 .love_text {
     width: 500px; /* 输入框宽度 */
-    padding: 20px;
-    font-size: 14px;
+    padding: 14px;
+    font-size: 16px;
 }
 
 .love_btn {
     width: 200px; /* 按钮宽度 */
-    padding: 8px;
-    font-size: 14px;
+    padding: 14px;
+    font-size: 18px;
     cursor: pointer;
 }
 
